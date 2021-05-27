@@ -49,7 +49,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 * [Pokeapi](https://pokeapi.co/) - The RESTful Pokémon API
 
-
 <img src="https://github.com/pablolucianop/portfolio/blob/main/img/space.jpg">
 
 # teach-dog-a-trick
