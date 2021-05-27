@@ -15,7 +15,7 @@ The app has been confectionnig all performance reports that Aercom uses internal
 Javascript, Node.js, HTML, CSS
 
 
-<img src="/portfolio/img/space.jpg" alt="separador">
+<img src="/portfolio/img/space.jpg" alt="separador" height="70">
 
 # count-syllables-in-spanish
 
