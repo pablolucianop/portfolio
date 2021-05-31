@@ -1,5 +1,5 @@
 
-# Development of an app that provides reports about performance of generator sets, for AERCOM.SA.
+# Development of app that provides reports about performance of generator sets, for AERCOM.SA.
 
 
 <img src="https://raw.githubusercontent.com/pablolucianop/portfolio/main/img/aercom.logo.png" height="70">
@@ -10,6 +10,7 @@ The development consisted on a system that stores and analyses raw data given fr
 The parameters and rules to interpret data were created and tested along with an electrical technician provided by Aercom.
 The app has a simple interface for the technician to edit the reports before approval. 
 The app has been confectionnig all performance reports that Aercom uses internally and delivers to clients since 2021.
+Can't show the actual app becouse of legal agreement with Aercom. 
 
 
 Javascript, Node.js, HTML, CSS
