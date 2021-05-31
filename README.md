@@ -7,7 +7,7 @@
 Full development of an app that provides monthly reports about performance of generator sets, for AERCOM.SA. 
 The reports were formerly created manually, ony by one, by an electrical technician. 
 
-The development consisted on a system that stores and analyses raw data given from generator sets, and creates reports with an analysis of the performance of the set. 
+The development consisted of a system that stores and analyses raw data given from generator sets, and creates reports with an analysis of the performance of the set. 
 The parameters and rules to interpret data were created and tested along with an electrical technician provided by Aercom.
 The app has a simple interface for the technician to edit the reports before approval. 
 The app has been confectionnig all performance reports that Aercom uses internally and delivers to clients since 2021.
