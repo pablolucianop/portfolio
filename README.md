@@ -58,7 +58,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 <img src="https://pablolucianop.github.io/portfolio/img/space.jpg" alt="separador" height="80">
 
-# Teach dog a trick
+# Collaborative project - Teach dog a trick
 
 
 ![Dog presentation](/img/dogPic.png)
