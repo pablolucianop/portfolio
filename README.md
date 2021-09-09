@@ -99,6 +99,7 @@ Contact me or just fork this repository, add some code and I will merge it!
 
 # Golden Ratio Constellation
 ![Watercolour draft](/img/watercolor.jpg)
+![Stars displayed in golden Ratio](/img/stars.jpg)
 ## <a href="https://pablolucianop.github.io/goldenRatioConstellation/" target="_blank" rel="noopener noreferrer">DEMO Golden Ratio Constellation</a>
 
 *Elements arranged by golden ratio spiral
