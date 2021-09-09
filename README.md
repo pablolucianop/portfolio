@@ -4,45 +4,25 @@
 
 <img src="https://raw.githubusercontent.com/pablolucianop/portfolio/main/img/aercom.logo.png" height="70">
 
-Full development of an app that provides monthly reports about performance of generator sets, for AERCOM.SA. 
+**Full development of an app that provides monthly reports about performance of generator** sets, for AERCOM.SA. 
 The reports were formerly created manually, ony by one, by an electrical technician. 
 
-The development consisted of a system that stores and analyses raw data given from generator sets, and creates reports with an analysis of the performance of the set. 
-The parameters and rules to interpret data were created and tested along with an electrical technician provided by Aercom.
-The app has a simple interface for the technician to edit the reports before approval. 
+The development consisted of a system that stores and analyses raw data given from generator sets, and creates **reports with an analysis of the performance** of the set. 
+The parameters and rules to interpret data were **created and tested along with an electrical technician** provided by Aercom.
+The app has a **simple interface** for the technician to edit the reports before approval. 
 The app has been confectionnig all performance reports that Aercom uses internally and delivers to clients since 2021.
 
 Can't show the actual app because of legal agreement with Aercom. 
 
 
-Javascript, Node.js, HTML, CSS
+**Javascript, Node.js, CSS, HTML**
 
 
 <img src="https://pablolucianop.github.io/portfolio/img/space.jpg" alt="separador" height="80">
 
-# Count syllables in Spanish
-
-![sptiting step by step](https://media.giphy.com/media/kcNqTiTz6AvpV1K058/giphy.gif)
-
-Count syllables of any word in Spanish, displayed in a learning friendly way. It identifies hiatos, diptongos, repeated letters, indivisible pair of characters, and other characteristics, and count syllables with a set of rules hierarchically organized, condensed in one easy to read function. 
-
-
-## <a href="https://pablolucianop.github.io/count-syllables-in-spanish/" target="_blank" rel="noopener noreferrer">Try it!</a>
-
-
-
-## Author
-
-- **Pablo Panza** - [pablolucianop](https://github.com/pablolucianop), https://pablopanzatrabajos.com.ar/
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-<img src="https://pablolucianop.github.io/portfolio/img/space.jpg" alt="separador" height="80">
-
-# How many pokemons can you name?
+# React app - How many pokemons can you name? 
  
- Simple react app that challenges you to name pokemons, and lists the ones that you spelled correctly. 
+ Simple **react app** that challenges you to name pokemons, and lists the ones that you spelled correctly, consuming a RESTful **API**
 
 ![list of pokemons made in the app](img/pokemonSpellingInAction.png)
 
@@ -58,6 +38,28 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 <img src="https://pablolucianop.github.io/portfolio/img/space.jpg" alt="separador" height="80">
 
+
+# Count syllables in Spanish
+
+![sptiting step by step](https://media.giphy.com/media/kcNqTiTz6AvpV1K058/giphy.gif)
+
+Count syllables of any word in Spanish, **displayed in a learning friendly way**. It identifies hiatuses, diphthongs, repeated letters, indivisible pair of characters, and other characteristics, and count syllables with a set of **rules hierarchically organized**, condensed in one easy to read function. 
+
+
+## <a href="https://pablolucianop.github.io/count-syllables-in-spanish/" target="_blank" rel="noopener noreferrer">Try it!</a>
+
+
+
+## Author
+
+- **Pablo Panza** - [pablolucianop](https://github.com/pablolucianop), https://pablopanzatrabajos.com.ar/
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+<img src="https://pablolucianop.github.io/portfolio/img/space.jpg" alt="separador" height="80">
+
+
 # Collaborative project - Teach dog a trick
 
 
@@ -66,30 +68,26 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## <a href="https://pablolucianop.github.io/teach-dog-a-trick/index.html" target="_blank" rel="noopener noreferrer">DEMO</a>
 
-Anyone interested in adding something to a small project? I'm looking to gain some experience in collaborative work and git in general.
-This is my proposition: Teach this dog a trick!
+Teach this dog a trick is a small collaborative project to give life to a **3d model**. I have built a simple 3D model of a dog. Anyone can join in, teach the dog something new, adding a feature or function.
+Three developers have already contributed!
 
-I have built a simple 3D model of a dog. You can join in, teach the dog do something new: roll over when a button is pressed. Close eyes when the cursor passes through the forehead. Teach him to help you evade taxes, etc...
-
-Two redditors have already contributed! Brianpeiris teach the dog how to play fetch, and leogardiner to play dead.
-I have edited the code so it's easier to read.
-
-Contact me or just fork this repository, add some code and I will merge it!
 
 ## Built With
 
 -   [Three.js](https://threejs.org/) - three.js – JavaScript 3D library
 -   [3DS MAX](https://www.autodesk.com/products/3ds-max) - 3Ds Max – 3D modeling and rendering software for design visualization, games, and animation
 
-## Authors
+## Contributors
 
--   **Pablo Panza** - Model the dog and set the bases - [pablolucianop](https://github.com/pablolucianop), https://pablopanzatrabajos.com.ar/
+-   [pablolucianop](https://github.com/pablolucianop) - **Model the dog** and set the bases
 
--   **Brian Peiris** - Though the dog to play fetch - [brianpeiris](https://github.com/brianpeiris)
+-   [brianpeiris](https://github.com/brianpeiris) - Though the dog to **play fetch **
 
--   **leogardiner** - Though the dog to play dead - [leogardiner](https://github.com/leogardiner)
+-   [leogardiner](https://github.com/leogardiner) - Though the dog to **play dead**  
 
--   **pfeinberg** - Give the dog a park to run, and tought to come when called - [pfeinberg](https://github.com/pfeinberg)
+-   [pfeinberg](https://github.com/pfeinberg) - **Give the dog a park to run**, and tought to **come when called**  
+
+Feel free to play with him! Just remember, he is a little rebellious! 
 
 
 
