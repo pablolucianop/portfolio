@@ -53,6 +53,7 @@ Count syllables of any word in Spanish, **displayed in a learning friendly way**
 
 
 ## Author
+<a href="https://es.wikipedia.org/wiki/Alberto_Rojo" target="_blank" rel="noopener noreferrer">**Pablo Panza**</a>
 
 - **Pablo Panza** - [pablolucianop](https://github.com/pablolucianop), https://pablopanzatrabajos.com.ar/
 
@@ -83,7 +84,7 @@ Three developers have already contributed!
 
 -   [pablolucianop](https://github.com/pablolucianop) - **Model the dog** and set the bases
 
--   [brianpeiris](https://github.com/brianpeiris) - Though the dog to **play fetch **
+-   [brianpeiris](https://github.com/brianpeiris) - Though the dog to **play fetch**
 
 -   [leogardiner](https://github.com/leogardiner) - Though the dog to **play dead**  
 
@@ -102,7 +103,7 @@ Feel free to play with him! Just remember, he is a little rebellious!
 ![Stars displayed in golden Ratio](/img/stars.jpg)
 ## <a href="https://pablolucianop.github.io/goldenRatioConstellation/" target="_blank" rel="noopener noreferrer">DEMO Golden Ratio Constellation</a>
 
-*Elements arranged by golden ratio spiral
+Elements arranged by golden ratio spiral.
 
 
 ## Built With
@@ -162,7 +163,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Alberto Rojo, author of: El azar en la vida cotidiana. Buenos Aires, Siglo XXI, 2012. -  https://es.wikipedia.org/wiki/Alberto_Rojo
+* <a href="https://es.wikipedia.org/wiki/Alberto_Rojo" target="_blank" rel="noopener noreferrer">Alberto Rojo</a>, author of: El azar en la vida cotidiana. Buenos Aires, Siglo XXI, 2012. -  
+* 
+
 
 
 
