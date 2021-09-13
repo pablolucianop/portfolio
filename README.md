@@ -154,7 +154,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * <a href="https://es.wikipedia.org/wiki/Alberto_Rojo" target="_blank" rel="noopener noreferrer">Alberto Rojo</a>, author of: El azar en la vida cotidiana. Buenos Aires, Siglo XXI, 2012. -  
-* 
+
 
 
 
