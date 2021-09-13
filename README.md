@@ -52,11 +52,6 @@ Count syllables of any word in Spanish, **displayed in a learning friendly way**
 
 
 
-## Author
-<a href="https://es.wikipedia.org/wiki/Alberto_Rojo" target="_blank" rel="noopener noreferrer">**Pablo Panza**</a>
-
-- **Pablo Panza** - [pablolucianop](https://github.com/pablolucianop), https://pablopanzatrabajos.com.ar/
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
@@ -112,9 +107,7 @@ Elements arranged by golden ratio spiral.
 * [3DS MAX](https://www.autodesk.com/products/3ds-max) - 3Ds Max – 3D modeling and rendering software for design visualization, games, and animation
 
 
-## Author
 
-* **Pablo Panza** - *Initial work* - [pablolucianop](https://github.com/pablolucianop), https://pablopanzatrabajos.com.ar/
 
 
 ## License
@@ -152,9 +145,6 @@ This is a js version of 'the game of chaos' proposed in the book 'Randomness in 
 ![book page where the original game proposition is taken from](/img/proposition.jpg)
 
 
-## Author
-
-* **Pablo Panza** - *Initial work* - [pablolucianop](https://github.com/pablolucianop), https://pablopanzatrabajos.com.ar/
 
 
 ## License
